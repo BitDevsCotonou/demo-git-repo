@@ -5,6 +5,7 @@ Voici la liste des personnes qui ont contribué à ce projet:
 | Nom | Profil GitHub | Profil |
 |-----|---------------|---------|
 | Olaniran |  [heyolaniran](https://github.com/heyolaniran) | Backend Developer |
+| Camydev |  [camydev](https://github.com/Camydev) | Backend Developer |
 | Calyte |  [calyarte](https://github.com/calyarte) | Backend Developer |
 | HOUESSOU | [esperancehsu](https://github.com/esperancehsu) | Backend Developer |
 | OMONTECHO | [Thomas OMONTECHO](https://www.linkedin.com/in/thomas-omontecho-97916a218) | Monteur video |
