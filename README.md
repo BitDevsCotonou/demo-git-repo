@@ -17,7 +17,7 @@ cd demo-git-repo
 #### 2. Créez votre branche
 ```bash
 # Créez une nouvelle branche avec votre nom d'utilisateur GitHub
-git checkout -b ajout-[votre-nom-utilisateur]
+git checkout -b ajout-geoffroyacakpo
 
 # Exemple:
 # git checkout -b ajout-johndoe
@@ -27,7 +27,7 @@ git checkout -b ajout-[votre-nom-utilisateur]
 1. Ouvrez le fichier `CONTRIBUTORS.md`
 2. Ajoutez une nouvelle ligne dans le tableau avec vos informations :
    ```markdown
-   | Votre Nom | [VotreUsername](https://github.com/VotreUsername) | Profil |
+   | Geoffroy Acakpo | [geoffroyacakpo](https://github.com/geoffroyacakpo) | Dev Frontend |
    ```
 3. Sauvegardez le fichier
 
@@ -40,10 +40,10 @@ git status
 git add CONTRIBUTORS.md
 
 # Créez un commit avec un message descriptif
-git commit -m "feat: profil de [votre-nom-utilisateur]"
+git commit -m "feat: profil de (https://github.com/GeoffroyAcakpo)"
 
 # Poussez vos modifications vers GitHub
-git push origin ajout-[votre-nom-utilisateur]
+git push origin ajout-geoffroyacakpo
 ```
 
 #### 5. Créez une Pull Request
