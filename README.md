@@ -27,7 +27,7 @@ git checkout -b ajout-geoffroyacakpo
 1. Ouvrez le fichier `CONTRIBUTORS.md`
 2. Ajoutez une nouvelle ligne dans le tableau avec vos informations :
    ```markdown
-   | Geoffroy Acakpo | [geoffroyacakpo](https://github.com/geoffroyacakpo) | Geoffroy Acakpo |
+   | Geoffroy Acakpo | [geoffroyacakpo](https://github.com/geoffroyacakpo) | Dev Frontend |
    ```
 3. Sauvegardez le fichier
 
